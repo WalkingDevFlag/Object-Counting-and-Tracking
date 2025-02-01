@@ -1,0 +1,4 @@
+Conda Env Setup
+1) conda create -n obs python=3.10
+2) conda activate obs
+3) pip install numpy ultralytics supervision
